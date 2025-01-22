@@ -1,6 +1,6 @@
 # DGIdb Citation Analysis
 
-This repository contains analyses designed to support a grant application for DGIdb, a leading drug-gene interaction database. The analyses explore citation trends and disease categorization across DGIdb and comparable resources (Pharos and OpenTargets). By examining these trends, we aim to highlight the impact and relevance of DGIdb in the scientific community.
+This repository contains analyses designed to summarize impact of DGIdb and compare to other mainstream drug-gene interaction aggregator knowledgebases. The analyses explore citation trends and disease categorization across DGIdb, Pharos, and OpenTargets. By examining these trends, we aim to highlight the impact and relevance of DGIdb in the scientific community.
 
 ## Repository Structure
 
