@@ -20,10 +20,10 @@ The analysis in this repository evaluates works that cite the following papers:
 - [**Pharos: Collating Protein Information to Shed Light on the Druggable Genome**](https://doi.org/10.1093/nar/gkw1072), *Nucleic Acids Research*, 2017.  
 
 ### Open Targets Platform
-- [**The next-generation Open Targets Platform: reimagined, redesigned, rebuilt**](https://doi.org/10.1093/nar/gkac1033), *Nucleic Acids Research*, 2023.  
-- [**Open Targets Platform: supporting systematic drug–target identification and prioritisation**](https://doi.org/10.1093/nar/gkaa993), *Nucleic Acids Research*, 2021.  
-- [**Open Targets Platform: new developments and updates two years on**](https://doi.org/10.1093/nar/gkaa993), *Nucleic Acids Research*, 2019.  
-- [**Open Targets: a platform for therapeutic target identification and validation**](https://doi.org/10.1093/nar/gkw1072), *Nucleic Acids Research*, 2017.  
+- [**The next-generation Open Targets Platform: reimagined, redesigned, rebuilt**](https://doi.org/10.1093/nar/gkac1046), *Nucleic Acids Research*, 2023.  
+- [**Open Targets Platform: supporting systematic drug–target identification and prioritisation**](https://doi.org/10.1093/nar/gkaa1027), *Nucleic Acids Research*, 2021.  
+- [**Open Targets Platform: new developments and updates two years on**](https://doi.org/10.1093/nar/gky1133), *Nucleic Acids Research*, 2019.  
+- [**Open Targets: a platform for therapeutic target identification and validation**](https://doi.org/10.1093/nar/gkw1055), *Nucleic Acids Research*, 2017.  
 
 
 ## Repository Structure
