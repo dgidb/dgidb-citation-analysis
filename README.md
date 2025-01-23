@@ -2,6 +2,30 @@
 
 This repository contains analyses designed to summarize impact of DGIdb and compare to other mainstream drug-gene interaction aggregator knowledgebases. The analyses explore citation trends and disease categorization across DGIdb, Pharos, and OpenTargets. By examining these trends, we aim to highlight the impact and relevance of DGIdb in the scientific community.
 
+## Papers considered
+
+The analysis in this repository evaluates works that cite the following papers:
+
+### Drug-Gene Interaction Database (DGIdb)
+- [**DGIdb 5.0: rebuilding the drug–gene interaction database for precision medicine and drug discovery platforms**](https://doi.org/10.1093/nar/gkad1040), *Nucleic Acids Research*, 2024.  
+- [**Integration of the Drug–Gene Interaction Database (DGIdb 4.0) with open crowdsource efforts**](https://doi.org/10.1093/nar/gkaa1084), *Nucleic Acids Research*, 2021.  
+- [**DGIdb 3.0: a redesign and expansion of the drug–gene interaction database**](https://doi.org/10.1093/nar/gkx1143), *Nucleic Acids Research*, 2018.  
+- [**DGIdb 2.0: mining clinically relevant drug–gene interactions**](https://doi.org/10.1093/nar/gkv1165), *Nucleic Acids Research*, 2016.  
+- [**DGIdb: mining the druggable genome**](https://doi.org/10.1038/nmeth.2689), *Nature Methods*, 2013.  
+
+### Pharos Resource
+- [**Pharos 2023: an integrated resource for the understudied human proteome**](https://doi.org/10.1093/nar/gkac1033), *Nucleic Acids Research*, 2023.  
+- [**TCRD and Pharos 2021: mining the human proteome for disease biology**](https://doi.org/10.1093/nar/gkaa993), *Nucleic Acids Research*, 2021.  
+- [**How to Illuminate the Druggable Genome Using Pharos**](https://doi.org/10.1002/cpbi.92), *Current Protocols in Bioinformatics*, 2020.  
+- [**Pharos: Collating Protein Information to Shed Light on the Druggable Genome**](https://doi.org/10.1093/nar/gkw1072), *Nucleic Acids Research*, 2017.  
+
+### Open Targets Platform
+- [**The next-generation Open Targets Platform: reimagined, redesigned, rebuilt**](https://doi.org/10.1093/nar/gkac1033), *Nucleic Acids Research*, 2023.  
+- [**Open Targets Platform: supporting systematic drug–target identification and prioritisation**](https://doi.org/10.1093/nar/gkaa993), *Nucleic Acids Research*, 2021.  
+- [**Open Targets Platform: new developments and updates two years on**](https://doi.org/10.1093/nar/gkaa993), *Nucleic Acids Research*, 2019.  
+- [**Open Targets: a platform for therapeutic target identification and validation**](https://doi.org/10.1093/nar/gkw1072), *Nucleic Acids Research*, 2017.  
+
+
 ## Repository Structure
 
 - **`data/`**  
